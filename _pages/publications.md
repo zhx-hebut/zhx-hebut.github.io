@@ -17,13 +17,13 @@ author_profile: true
 
 **In 2026**
 
-[1] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. Information Fusion, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
+[1] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. **Information Fusion**, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2026_Information Fusion_ruizhi.pdf)  
 
-[2] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. **(CCF Rank A)**  
+[2] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
 [[Download paper here]](https://arxiv.org/abs/2511.09980)   [[Code Release]](https://github.com/pkuserc/ETC)   
 
-[3] Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. **(CCF Rank A)**  
+[3] Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
 [[Download paper here]](hhttps://arxiv.org/abs/2511.09984)   [[Code Release]](https://github.com/pkuserc/SCD)   
 
 **In 2025**
@@ -31,19 +31,19 @@ author_profile: true
 [4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. **IEEE Transactions on Neural Networks and Learning Systems**, 2025, 36(2): 2206-2220, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS.pdf)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
 
-[5] **Zhenghua Xu\*\#**, Yunxin Liu\#, Gang Xu, Thomas Lukasiewicz. Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking. IEEE Transactions on Medical Imaging (TMI), 2025, 44(1): 180-193. **(SCI Q1, IF: 10.6)**  
+[5] **Zhenghua Xu\*\#**, Yunxin Liu\#, Gang Xu, Thomas Lukasiewicz. Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking. **IEEE Transactions on Medical Imaging (TMI)**, 2025, 44(1): 180-193. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_TMI_AHM.pdf)   [[Code Release]](https://github.com/Dearbreeze/AHM)   
 
-[6] Bo Li, Gexiang Fang, Wei Ye\*, **Zhenghua Xu\***, Jinglei Zhang, Hao Cheng, Shikun Zhang. MPL: Multiple Programming Languages with Large Language Models for Information Extraction. Findings of the Association for Computational Linguistics (ACL), 2025, pages 3874-3886. **(CCF Rank A)**  
+[6] Bo Li, Gexiang Fang, Wei Ye\*, **Zhenghua Xu\***, Jinglei Zhang, Hao Cheng, Shikun Zhang. MPL: Multiple Programming Languages with Large Language Models for Information Extraction. Findings of the Association for Computational Linguistics **(ACL)**, 2025, pages 3874-3886. **(CCF Rank A)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025 ACL_findings_Libo.pdf)   [[Code Release]](https://github.com/PKU-Fgx/MPL)   
 
-[7] Zhenghua Xu, Yunxin Liu, Di Yuan, Bo Li, Weipeng Liu, Thomas Lukasiewicz. You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation. IEEE Journal of Biomedical and Health Informatics (JBHI), 2025, Early Access.  **(SCI Q1, IF: 6.8)**  
+[7] Zhenghua Xu, Yunxin Liu, Di Yuan, Bo Li, Weipeng Liu, Thomas Lukasiewicz. You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation. **IEEE Journal of Biomedical and Health Informatics (JBHI)**, 2025, Early Access.  **(SCI Q1, IF: 6.8)**  
 [[Download paper here]](https://ieeexplore.ieee.org/document/11215893)   
 
-[8] **Zhenghua Xu**, Hening Wang, Runhe Yang, Yuchen Yang, Weipeng Liu\*, Thomas Lukasiewicz. Aggregated Mutual Learning between CNN and Transformer for semi-supervised medical image segmentation. Knowledge-Based Systems, 2025, 311: 113005.  **(SCI Q1, IF: 7.2)** 
+[8] **Zhenghua Xu**, Hening Wang, Runhe Yang, Yuchen Yang, Weipeng Liu\*, Thomas Lukasiewicz. Aggregated Mutual Learning between CNN and Transformer for semi-supervised medical image segmentation. **Knowledge-Based Systems**, 2025, 311: 113005.  **(SCI Q1, IF: 7.2)** 
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_KBS_Hening.pdf) 
 
-[9] **Zhenghua Xu**, Runhe Yang, Zihang Xu\*, Shuo Zhang, Yuchen Yang\*, Weipeng Liu\*, Weichao Xu, Junyang Chen, Thomas Lukasiewicz, Victor C. M. Leung. PCA: Semi-Supervised Segmentation with Patch Confidence Adversarial Training. IEEE Transactions on Network Science and Engineering, 2025, 12(4): 2473-2486. **(SCI Q1, IF: 7.9)**  
+[9] **Zhenghua Xu**, Runhe Yang, Zihang Xu\*, Shuo Zhang, Yuchen Yang\*, Weipeng Liu\*, Weichao Xu, Junyang Chen, Thomas Lukasiewicz, Victor C. M. Leung. PCA: Semi-Supervised Segmentation with Patch Confidence Adversarial Training. **IEEE Transactions on Network Science and Engineering (TNSE)**, 2025, 12(4): 2473-2486. **(SCI Q1, IF: 7.9)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_TNSE_PCA.pdf)  
 
 [10] **Zhenghua Xu\*\#**, Miao Yu\#, Yuhang Song. Inspires effective alternatives to backpropagation: predictive coding helps understand and build learning. Neural Regeneration Research, 2025, 20(11): 3215-3216. (SCI Q1, IF: 6.7)  
