@@ -28,12 +28,12 @@ E-mail: firstname.lastname@hebut.edu.cn
 **News**
 -----
 * **Great news**: our paper "Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation" is publish in **$\color{red}{Nature}$ $\color{red}{Neuroscience}$** (SCI Q1, IF: 25.0).
-* 2025.11: Our paper "Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG" is accepted to publish in AAAI 2026 (CCF-A).
-* 2025.07: Our paper "C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network" is published in Information Fusion (SCI Q1, IF: 15.5).
-* 2025.05: Our paper "MPL: Multiple Programming Languages with Large Language Models for Information Extraction" is published in ACL 2025 (CCF-A).
-* 2024.08: Our paper "Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking" is published in IEEE Transactions on Medical Imaging (SCI Q1, IF: 10.6).
-* 2023.12: Our paper "Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty" is published in IEEE Transactions on Neural Networks and Learning Systems (SCI Q1, IF: 10.4).
-* 2023.06: Our paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is published in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
+* **2025.11**: Our paper "Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG" is accepted to publish in AAAI 2026 (CCF-A).
+* **2025.07**: Our paper "C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network" is published in Information Fusion (SCI Q1, IF: 15.5).
+* **2025.05**: Our paper "MPL: Multiple Programming Languages with Large Language Models for Information Extraction" is published in ACL 2025 (CCF-A).
+* **2024.08**: Our paper "Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking" is published in IEEE Transactions on Medical Imaging (SCI Q1, IF: 10.6).
+* **2023.12**: Our paper "Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty" is published in IEEE Transactions on Neural Networks and Learning Systems (SCI Q1, IF: 10.4).
+* **2023.06**: Our paper "Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation" is published in IEEE Transactions on Medical Imaging (SCI Q1, IF: 11.037).
 * I am invited to serve as the Senior Program Committee (SPC) member in AAAI 2024.
 * My Google Scholar profile reaches 1000 citations in Apr 2023.
 * Our paper "Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation" is published in Medical Image Analysis (SCI Q1, IF: 13.828).  
