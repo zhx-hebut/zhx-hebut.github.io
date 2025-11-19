@@ -17,13 +17,13 @@ author_profile: true
 
 **In 2026**
 
-[1] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. Information Fusion, 2026, 125: 103442. (SCI Q1, IF: 15.5)  
+[1] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. Information Fusion, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2026_Information Fusion_ruizhi.pdf)  
 
-[2] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI). **(CCF Rank A)**  
+[2] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. **(CCF Rank A)**  
 [[Download paper here]](https://arxiv.org/abs/2511.09980)   [[Code Release]](https://github.com/pkuserc/ETC)   
 
-[3] Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI). **(CCF Rank A)**  
+[3] Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. **(CCF Rank A)**  
 [[Download paper here]](hhttps://arxiv.org/abs/2511.09984)   [[Code Release]](https://github.com/pkuserc/SCD)   
 
 **In 2025**
@@ -43,7 +43,7 @@ author_profile: true
 [8] **Zhenghua Xu**, Hening Wang, Runhe Yang, Yuchen Yang, Weipeng Liu\*, Thomas Lukasiewicz. Aggregated Mutual Learning between CNN and Transformer for semi-supervised medical image segmentation. Knowledge-Based Systems, 2025, 311: 113005.  **(SCI Q1, IF: 7.2)** 
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_KBS_Hening.pdf) 
 
-[9] **Zhenghua Xu**, Runhe Yang, Zihang Xu\*, Shuo Zhang, Yuchen Yang\*, Weipeng Liu\*, Weichao Xu, Junyang Chen, Thomas Lukasiewicz, Victor C. M. Leung. PCA: Semi-Supervised Segmentation with Patch Confidence Adversarial Training. IEEE Transactions on Network Science and Engineering, 2025, 12(4): 2473-2486. (SCI Q1, IF: 7.9)  
+[9] **Zhenghua Xu**, Runhe Yang, Zihang Xu\*, Shuo Zhang, Yuchen Yang\*, Weipeng Liu\*, Weichao Xu, Junyang Chen, Thomas Lukasiewicz, Victor C. M. Leung. PCA: Semi-Supervised Segmentation with Patch Confidence Adversarial Training. IEEE Transactions on Network Science and Engineering, 2025, 12(4): 2473-2486. **(SCI Q1, IF: 7.9)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_TNSE_PCA.pdf)  
 
 [10] **Zhenghua Xu\*\#**, Miao Yu\#, Yuhang Song. Inspires effective alternatives to backpropagation: predictive coding helps understand and build learning. Neural Regeneration Research, 2025, 20(11): 3215-3216. (SCI Q1, IF: 6.7)  
@@ -51,7 +51,7 @@ author_profile: true
 
 **In 2024**
 
-[11] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity: A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
+[11] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity as A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2024_Nature Neuroscience.pdf)   [[Code Release]](https://github.com/YuhangSong/Prospective-Configuration)    
 
 [12] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
