@@ -67,7 +67,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [3] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI), 2026. **(CCF Rank A)**  
 [[Download paper here]](https://arxiv.org/abs/2511.09980)   [[Code Release]](https://github.com/pkuserc/ETC)   
 
-[4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. **IEEE Transactions on Neural Networks and Learning Systems**, 2025, 36(2): 2206-2220, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
+[4] **Zhenghua Xu\***, Wenting Xu, Ruizhi Wang\*, Junyang Chen, Chang Qi, Thomas Lukasiewicz. Hybrid Reinforced Medical Report Generation wit M-Linear Attention and Repetition Penalty. IEEE Transactions on Neural Networks and Learning Systems, 2025, 36(2): 2206-2220, DOI: 10.1109/TNNLS.2023.3343391. **(SCI Q1, IF: 10.4)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TNNLS.pdf)   [[Code Release]](https://github.com/zhx-hebut/HReMRG-MR)    
 
 [5] Bo Li, Gexiang Fang, Wei Ye\*, **Zhenghua Xu\***, Jinglei Zhang, Hao Cheng, Shikun Zhang. MPL: Multiple Programming Languages with Large Language Models for Information Extraction. Findings of the Association for Computational Linguistics (ACL), 2025, pages 3874-3886. **(CCF Rank A)**  
@@ -76,7 +76,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [6] **Zhenghua Xu\*\#**, Yunxin Liu\#, Gang Xu, Thomas Lukasiewicz. Self-Supervised Medical Image Segmentation Using Deep Reinforced Adaptive Masking. IEEE Transactions on Medical Imaging (TMI), 2025, 44(1): 180-193. **(SCI Q1, IF: 10.6)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2025_TMI_AHM.pdf)   [[Code Release]](https://github.com/Dearbreeze/AHM)   
 
-[7] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. **IEEE Transactions on Medical Imaging (TMI)**, 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
+[7] Jiaojiao Zhang, Shuo Zhang, Xiaoqian Shen, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation. IEEE Transactions on Medical Imaging (TMI), 2024, 43(1): 76-95. **(SCI Q1, IF: 10.6, ESI Highly Cited Paper)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2023_TMI_camera-ready.pdf)   [[Code Release]](http://zhx-hebut.github.io/files/code_release/Multi-ConDoS_code.zip)  
 
 [8] Shuo Zhang, Jiaojiao Zhang, Biao Tian, Thomas Lukasiewicz, **Zhenghua Xu\***. Multi-Modal Contrastive Mutual Learning and Pseudo-Label Re-Learning for Semi-Supervised Medical Image Segmentation. Medical Image Analysis, 2023. **(SCI Q1, IF: 10.9)**  
