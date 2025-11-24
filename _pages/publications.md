@@ -17,13 +17,13 @@ author_profile: true
 
 **In 2026**
 
-[1] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. **Information Fusion**, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
+-- Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. **Information Fusion**, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2026_Information Fusion_ruizhi.pdf)  
 
-[2] Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
+-- Bo Li, Tian Tian, **Zhenghua Xu\***, Hao Cheng, Shikun Zhang, Wei Ye*. Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
 [[Download paper here]](https://arxiv.org/abs/2511.09980)   [[Code Release]](https://github.com/pkuserc/ETC)   
 
-[3] Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
+-- Bo Li, **Zhenghua Xu**, Rui Xie\*. Language Drift in Multilingual Retrieval-Augmented Generation: Characterization and Decoding-Time Mitigation. Accepted to publish in Proceedings of the 40th AAAI Conference on Artificial Intelligence **(AAAI)**, 2026. **(CCF Rank A)**  
 [[Download paper here]](hhttps://arxiv.org/abs/2511.09984)   [[Code Release]](https://github.com/pkuserc/SCD)   
 
 **In 2025**
