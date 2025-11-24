@@ -62,7 +62,7 @@ Please refer to [[**Publications**]](https://zhx-hebut.github.io/publications) f
 [1] Yuhang Song\*, Beren Millidge, Tommaso Salvatori, Thomas Lukasiewicz\*, **Zhenghua Xu\***, Rafal Bogacz\*. Inferring Neural Activity Before Plasticity as A Foundation for Learning Beyond Backpropagation. **Nature Neuroscience**, 2024, 27: 348-358. **(SCI Q1, IF: 25.0)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2024_Nature Neuroscience.pdf)   [[Code Release]](https://github.com/YuhangSong/Prospective-Configuration)    
 
-[2] Xiangtao Wang, Ruizhi Wang, Thomas Lukasiewicz, **Zhenghua Xu\***. AMLP: Adjustable Masking Lesion Patches for Self-Supervised Medical Image Segmentation. **Accepted to Publish in IEEE Transactions on Medical Imaging (TMI)**, 2026. **(SCI Q1, IF: 9.8)**  
+[2] Xiangtao Wang, Ruizhi Wang, Thomas Lukasiewicz, **Zhenghua Xu\***. AMLP: Adjustable Masking Lesion Patches for Self-Supervised Medical Image Segmentation. Accepted to Publish in **IEEE Transactions on Medical Imaging (TMI)**, 2026. **(SCI Q1, IF: 9.8)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2026_TMI_AMLP_Xiangtao.pdf)  
 
 [3] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. Information Fusion, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
