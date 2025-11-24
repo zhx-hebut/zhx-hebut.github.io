@@ -17,7 +17,7 @@ author_profile: true
 
 **In 2026**
 
-[1] Xiangtao Wang, Ruizhi Wang, Thomas Lukasiewicz, **Zhenghua Xu\***. AMLP: Adjustable Masking Lesion Patches for Self-Supervised Medical Image Segmentation. **Accepted to Publish in IEEE Transactions on Medical Imaging (TMI)**, 2026. **(SCI Q1, IF: 9.8)**  
+[1] Xiangtao Wang, Ruizhi Wang, Thomas Lukasiewicz, **Zhenghua Xu\***. AMLP: Adjustable Masking Lesion Patches for Self-Supervised Medical Image Segmentation. Accepted to Publish in **IEEE Transactions on Medical Imaging (TMI)**, 2026. **(SCI Q1, IF: 9.8)**  
 [[Download paper here]](http://zhx-hebut.github.io/files/2026_TMI_AMLP_Xiangtao.pdf)  
 
 [2] Ruizhi Wang, **Zhenghua Xu\***, Xiangtao Wang, Weipeng Liu, Thomas Lukasiewicz. C2M-DoT: Cross-modal consistent multi-view medical report generation with domain transfer network. **Information Fusion**, 2026, 125: 103442. **(SCI Q1, IF: 15.5)**  
