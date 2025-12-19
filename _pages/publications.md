@@ -30,9 +30,9 @@ author_profile: true
 [[Download paper here]](hhttps://arxiv.org/abs/2511.09984)   [[Code Release]](https://github.com/pkuserc/SCD)   
 
 [5] Zhenghua Xu, Yunxin Liu, Di Yuan, Bo Li, Weipeng Liu, Thomas Lukasiewicz. You Need Glimpse Before Segmentation:Stochastic Detector-Actor-Critic for Medical Image Segmentation. **IEEE Journal of Biomedical and Health Informatics (JBHI)**, 2025, Early Access.  **(SCI Q1, IF: 6.8)**  
-[[Download paper here]](https://ieeexplore.ieee.org/document/11215893)   
+[[Download paper here]](https://ieeexplore.ieee.org/document/11215893)   [[Code Release]](https://github.com/Dearbreeze/AHM)   
 
-[6] Zhenghua Xu, Jiaqi Tang, Dan Yao, Zhenzhen Wang, Thomas Lukasiewicz. AttCL-GAN: Attentional Contrastive Learning-based Generative Adversarial Network for Modality Completion of Medical Images. **Accepted to publish in Knowledge-Based Systems**, 2026.  **(SCI Q1, IF: 7.2)**  
+[6] Zhenghua Xu, Jiaqi Tang, Dan Yao, Zhenzhen Wang, Thomas Lukasiewicz. AttCL-GAN: Attentional Contrastive Learning-based Generative Adversarial Network for Modality Completion of Medical Images. **Knowledge-Based Systems**, 2026, 334: 115017.  **(SCI Q1, IF: 7.2)**  
 
 
 **In 2025**
